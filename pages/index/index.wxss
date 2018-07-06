@@ -15,7 +15,8 @@
 .matrix .matrix-btn.kswz icon{background-image: url(https://xcx.yzw0525.com/images/index_02.svg);}
 .matrix .matrix-btn.yygh icon{background-image: url(https://xcx.yzw0525.com/images/index_03.svg);}
 .matrix .matrix-btn.gtpp icon{background-image: url(https://xcx.yzw0525.com/images/index_04.svg);}
-.matrix .matrix-btn.lllx icon{background-image: url(https://xcx.yzw0525.com/images/index_05.svg);}
+.matrix .matrix-btn.lllx icon{background-image: url(https://xcx.yzw0525.com/images/index_01.svg);}
+.matrix .matrix-btn.kugk icon{background-image: url(https://xcx.yzw0525.com/images/index_04.svg);}
 .matrix .matrix-btn.user icon{background-image: url(https://xcx.yzw0525.com/images/matrix_btn_user.svg);}
 .matrix::after,.diagnosis::after,.ask-icon::after,.comment::after{content: "";display: block; width: 0;height: 0;clear: both;}
 
