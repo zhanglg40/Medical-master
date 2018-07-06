@@ -1,0 +1,16 @@
+<!--road.wxml-->
+<import src="/pages/public.wxml"/>
+<view class="road">
+  <view class="title">河西区解放南路488号</view>
+  <map id="map" longitude="120.288650" latitude="31.569670" scale="18" polyline="{{polyline}}" controls="{{controls}}" bindcontroltap="controltap" markers="{{markers}}" marker="{{marker}}" bindmarkertap="markertap" bindregionchange="regionchange" show-location style="width: 100%; height: 300px;"></map>
+  <view class="address">
+    <view class="title">医院地址</view>
+    <view class="p">河西区解放南路488号</view>
+  </view>
+  <view class="route">
+    <view class="title">乘车路线</view>
+    <view class="p">20、82、10、1、508、73、211、112，地铁2号线</view>
+  </view>
+  
+</view>
+<template is="foot" />

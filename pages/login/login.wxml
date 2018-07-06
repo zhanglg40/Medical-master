@@ -1,0 +1,7 @@
+<!--pages/login/login.wxml-->
+<view class="yebologo">
+  坤如玛丽医院
+</view>
+<view class="login_btn">
+  <button type="primary"  bindtap="againLogin"> 登陆 </button>
+</view>
