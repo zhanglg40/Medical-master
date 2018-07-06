@@ -29,14 +29,14 @@
         <view class="info">无需排队 免费挂号</view>
       </view>
     </navigator>
-    <navigator url="/pages/about/about" open-type="navigate" class="nav-btn active" hover-class="nav-hover">
+    <navigator url="" open-type="navigate" class="nav-btn active" hover-class="nav-hover">
       <view class="matrix-btn gtpp">
         <icon class="gtpp"/>
         <view class="title">排队情况</view>
         <view class="info">实时查看叫号情况</view>
       </view>
     </navigator>
-    <navigator url="/pages/user/user" open-type="navigate" class="nav-btn active" hover-class="nav-hover">
+    <navigator url="/pages/vote/index" open-type="navigate" class="nav-btn active" hover-class="nav-hover">
       <view class="matrix-btn user">
         <icon class="user"/>
         <view class="title">投票</view>
@@ -49,7 +49,7 @@
         <view class="title">坤如概况</view>
         <view class="info">医院与设备简介</view>
       </view>
-    </navigator>ß
+    </navigator>
   </view>
   <!--matrix end-->
   <view class='activity'>
