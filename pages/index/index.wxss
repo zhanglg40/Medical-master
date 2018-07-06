@@ -10,6 +10,7 @@
 .matrix .matrix-btn.gtpp{background-color:#72c08a;}
 .matrix .matrix-btn.lllx{background-color:#39cdac;}
 .matrix .matrix-btn.user{background-color:#39cdac;}
+.matrix .matrix-btn.kugk{background-color:#ff9d6f;}
 .matrix .matrix-btn icon{display: block; width: 120rpx;height: 120rpx;float: right;background-size: 60% auto;margin:5% 5% 0 0;background-position: center;background-color: #fff;border-radius: 50%;background-repeat: no-repeat;}
 .matrix .matrix-btn.kswz icon{background-image: url(https://xcx.yzw0525.com/images/index_02.svg);}
 .matrix .matrix-btn.yygh icon{background-image: url(https://xcx.yzw0525.com/images/index_03.svg);}
