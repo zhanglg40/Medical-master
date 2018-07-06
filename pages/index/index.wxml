@@ -44,7 +44,7 @@
       </view>
     </navigator>
         <navigator url="/pages/about/about" open-type="navigate" class="nav-btn active" hover-class="nav-hover">
-      <view class="matrix-btn gtpp">
+      <view class="matrix-btn kugk">
         <icon class="gtpp"/>
         <view class="title">坤如概况</view>
         <view class="info">医院与设备简介</view>
