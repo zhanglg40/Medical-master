@@ -14,22 +14,22 @@
         <navigator class="last">平价收费</navigator>
       </view>
       <view class="textimg">
-        <image src="https://xcx.yzw0525.com/images/about_05.jpg" mode="widthFix" class="main1-head"></image>
+        <image src="http://usr.nianman18.com/images/about05.jpg" mode="widthFix" class="main1-head"></image>
         <view class="text">作为医改先行者之一，天津坤如玛丽妇产医院已在公立医疗基础上紧抓品牌服务，探索出属于自己的"坤如玛丽模式"，并获得来自社会各界的认同。为严抓医疗安全生命线，天津坤如玛丽妇产医院提出"体系化大妇产"理念，充分保障母婴医疗安全。
         </view>
       </view>
-<!--      <view class="zx-btn">
-        <view class="nvfz">男女分诊</view>
-        <view class="ydyzl">一对一诊疗</view>
-        <view class="wxymz">温馨夜门诊</view>
-        <view class="ysbh">隐私保护</view>
-      </view>-->
+      <view class="zx-btn">
+        <!--  <view class="nvfz">男女分诊</view>
+          <view class="ydyzl">一对一诊疗</view>
+          <view class="wxymz">温馨夜门诊</view>
+          <view class="ysbh">隐私保护</view>-->
+      </view>
     </view>
     <view class="main main-hj">
       <image src="https://xcx.yzw0525.com/images/about-main03.jpg" mode="widthFix" class="main1-head"></image>
       <image src="http://usr.nianman18.com/images/about-hj1.jpg" mode="widthFix" class="main1-head"></image>
-      <image src="https://xcx.yzw0525.com/images/about-hj2.jpg" mode="widthFix" class="main1-head"></image>
-      <image src="https://xcx.yzw0525.com/images/about-hj3.jpg" mode="widthFix" class="main1-head"></image>
+      <image src="http://usr.nianman18.com/images/about-hj2.jpg" mode="widthFix" class="main1-head"></image>
+      <image src="http://usr.nianman18.com/images/about-hj3.jpg" mode="widthFix" class="main1-head"></image>
       <image src="https://xcx.yzw0525.com/images/about-hj4.jpg" mode="widthFix" class="main1-head"></image>
       <image src="https://xcx.yzw0525.com/images/about-hj5.jpg" mode="widthFix" class="main1-head"></image>
 
