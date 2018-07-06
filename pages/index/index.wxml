@@ -56,9 +56,9 @@
     <navigator url="/pages/activity/wtwjjc/wtwjjc" open-type="navigate" hover-class="nav-hover">
       <image src="http://usr.nianman18.com/images/index_activity_01.jpg?" mode="widthFix"></image>
     </navigator>
-    <navigator url="" open-type="navigate" hover-class="nav-hover">
+<!--    <navigator url="" open-type="navigate" hover-class="nav-hover">
       <image src="http://usr.nianman18.com/images/index_activity_02.jpg?" mode="widthFix"></image>
-    </navigator>
+    </navigator>-->
     <navigator url="" open-type="navigate" hover-class="nav-hover">
       <image src="http://usr.nianman18.com/images/index_activity_03.jpg?" mode="widthFix"></image>
     </navigator>
@@ -66,15 +66,15 @@
   <!-- activity end-->
   <view class="diagnosis">
     <view class="diagnosis-body gck">
-      <view class="d-title">疾病问医生</view>
+      <view class="d-title">专家团队</view>
       <view class="d-image">
         <navigator url="/pages/doctlist/doctlist?diagnosisType=gc" class="d-btn">
-          <image src="https://xcx.yzw0525.com/images/index_gck.jpg" mode="widthFix"></image>
+          <image src="http://usr.nianman18.com/images/index_gck.jpg" mode="widthFix"></image>
         </navigator>
       </view>
        <view class="d-image">
         <navigator url="/pages/doctlist/doctlist?diagnosisType=wc" class="d-btn">
-          <image src="https://xcx.yzw0525.com/images/index_wck.jpg"  mode="widthFix"></image>
+          <image src="http://usr.nianman18.com/images/index_wck.jpg"  mode="widthFix"></image>
         </navigator>
       </view>
     </view>

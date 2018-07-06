@@ -10,12 +10,12 @@ Page({
     doctlist:{},
     listinfo:{
       "gc": {
-        "banner": "https://xcx.yzw0525.com/images/doctlist_gc.jpg",
-        "title": "肛肠科推荐专家"
+        "banner": "http://usr.nianman18.com/images/index_gck.jpg",
+        "title": "产科推荐专家"
       },
       "wc": {
-        "banner": "https://xcx.yzw0525.com/images/doctlist_wc.jpg",
-        "title": "中医胃肠科推荐专家"
+        "banner": "http://usr.nianman18.com/images/index_wck.jpg",
+        "title": "妇科推荐专家"
       }
     },
     diagnosisType:"gc",
