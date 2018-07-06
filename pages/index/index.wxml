@@ -43,6 +43,13 @@
         <view class="info">赢取积分 兑换好礼</view>
       </view>
     </navigator>
+        <navigator url="/pages/about/about" open-type="navigate" class="nav-btn active" hover-class="nav-hover">
+      <view class="matrix-btn gtpp">
+        <icon class="gtpp"/>
+        <view class="title">坤如概况</view>
+        <view class="info">医院与设备简介</view>
+      </view>
+    </navigator>ß
   </view>
   <!--matrix end-->
   <view class='activity'>
@@ -74,43 +81,43 @@
   </view>
   <!--diagnosis end-->
   <view class="ask-icon">
-    <view class="ask-title">一键咨询</view>
+    <view class="ask-title">特色医疗</view>
     <swiper class="ask-icon-swiper" indicator-color="rgba(0, 0, 0, .5)" indicator-active-color="#ffffff" autoplay="true" circular="true">
       <swiper-item>
         <button open-type="contact" class="ask-body wzc">
           <view class="wzc icon"></view>
-          <view class="a-title">问痔疮</view>
+          <view class="a-title">NT检查</view>
         </button >
         <button open-type="contact" class="ask-body wbx">
         <view class="wbx icon"></view>
-          <view class="a-title">问便血</view>
+          <view class="a-title">四维彩超</view>
         </button>
         <button open-type="contact" class="ask-body wgl">
         <view class="wgl icon"></view>
-          <view class="a-title">问肛裂</view>
+          <view class="a-title">comi光子修复</view>
         </button>
         <button open-type="contact" class="ask-body wbm">
           <view class="wbm icon"></view>
-          <view class="a-title">问便秘</view>
+          <view class="a-title">无痛分娩</view>
         </button>
       </swiper-item>
       <swiper-item>
        
         <button open-type="contact" class="ask-body wcy">
         <view class="wcy icon"></view>
-          <view class="a-title">问肠炎</view>
+          <view class="a-title">宫腹腔镜</view>
         </button>
         <button open-type="contact" class="ask-body wglou">
         <view class="wglou icon"></view>
-          <view class="a-title">问肛瘘</view>
+          <view class="a-title">误闯DNA</view>
         </button>
         <button open-type="contact" class="ask-body wjg">
         <view class="wjg icon"></view>
-          <view class="a-title">问价格</view>
+          <view class="a-title">水中分娩</view>
         </button>
         <button open-type="contact" class="ask-body wqt">
         <view class="wqt icon"></view>
-          <view class="a-title">问其他</view>
+          <view class="a-title">月子会所</view>
         </button>
       </swiper-item>
     </swiper>
