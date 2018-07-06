@@ -54,7 +54,7 @@
   <!--matrix end-->
   <view class='activity'>
     <navigator url="/pages/activity/wtwjjc/wtwjjc" open-type="navigate" hover-class="nav-hover">
-      <image src="https://xcx.yzw0525.com/images/index_activity_01.jpg?" mode="widthFix"></image>
+      <image src="http://usr.nianman18.com/images/index_activity_01.jpg?" mode="widthFix"></image>
     </navigator>
     <navigator url="/pages/activity/wtcjjc/wtcjjc" open-type="navigate" hover-class="nav-hover">
       <image src="https://xcx.yzw0525.com/images/index_activity_02.jpg?" mode="widthFix"></image>
