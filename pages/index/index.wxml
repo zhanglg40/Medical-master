@@ -15,6 +15,13 @@
   <import src="/pages/public.wxml"/>
   <!--banner end-->
   <view class="matrix">
+          <navigator url="/pages/about/about" open-type="navigate" class="nav-btn active" hover-class="nav-hover">
+      <view class="matrix-btn kugk">
+        <icon class="gtpp"/>
+        <view class="title">坤如概况</view>
+        <view class="info">医院与设备简介</view>
+      </view>
+    </navigator>
     <button open-type="contact" class="nav-btn active" hover-class="nav-hover">
       <view class="matrix-btn kswz">
         <icon class="kswz"/>
@@ -43,11 +50,18 @@
         <view class="info">赢取积分 兑换好礼</view>
       </view>
     </navigator>
-        <navigator url="/pages/about/about" open-type="navigate" class="nav-btn active" hover-class="nav-hover">
-      <view class="matrix-btn kugk">
-        <icon class="gtpp"/>
-        <view class="title">坤如概况</view>
-        <view class="info">医院与设备简介</view>
+    <navigator url="/pages/vote/index" open-type="navigate" class="nav-btn active" hover-class="nav-hover">
+      <view class="matrix-btn user">
+        <icon class="user"/>
+        <view class="title"> 预约四维</view>
+        <view class="info">赢取积分 兑换好礼</view>
+      </view>
+    </navigator>
+        <navigator url="/pages/vote/index" open-type="navigate" class="nav-btn active" hover-class="nav-hover">
+      <view class="matrix-btn user">
+        <icon class="user"/>
+        <view class="title">体检报告</view>
+        <view class="info">快速查询 体检情况</view>
       </view>
     </navigator>
   </view>
